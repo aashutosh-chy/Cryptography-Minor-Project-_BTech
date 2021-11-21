@@ -10,7 +10,7 @@ import FYPFORMS.Decryption;
 
 /**
  *
- * @author ritesh poudel
+ * @author aashutosh chaudhary, ritesh poudel
  */
 public class Home extends javax.swing.JFrame {
 
